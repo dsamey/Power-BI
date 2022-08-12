@@ -1,2 +1,2 @@
-# Power-BI
-Visualizations files related to visualisations using Power BI, Tableau and other tools.
+# Visualizations 
+files related to visualisations using Power BI, Tableau and other tools.
